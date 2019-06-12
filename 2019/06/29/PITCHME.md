@@ -11,7 +11,7 @@
 
 - ネットに公開してみたよ! | 
 
-- <span style="color: red; "> 学びがすごい</span> | 
+- ## <span style="color: red; "> 学びがすごい</span> | 
 
 - ......こんなこと話します💪 | 
 ---
