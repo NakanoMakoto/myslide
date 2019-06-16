@@ -2,13 +2,13 @@
 layout : center
 
 # Look-and-Feel
-# logo : assets/images/logo.png
+logo : assets/images/logo.png
 theme : beige
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
 # Behavior
-transition : slide
+transition : none
 published : true
 
 # Plugins
