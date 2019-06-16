@@ -15,7 +15,7 @@
 自己紹介
 
 まぶり
-<img src="assets/images/profile.png">
+<img width="100" height="100" src="assets/images/profile.png">
 
 twitter(https://twitter.com/mabumaburi)
 
@@ -30,10 +30,10 @@ twitter(https://twitter.com/mabumaburi)
 
 <img src="assets/images/mysite.png">
 
+---
 ## パフォーマンス
 
 <img src="assets/images/peformance.png">
 
-## 初回公開までの期間
-2日ほど
 ---
+
